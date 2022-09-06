@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         btn_pana.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent panama = new Intent(MainActivity.this, porschepanamera.class);
+                Intent panama = new Intent(MainActivity.this, panamera.class);
                 startActivity(panama);
             }
         });
