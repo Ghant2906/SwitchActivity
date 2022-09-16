@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ProjectAndroiStudio/SwitchActivity/app/src/main/res/drawable/background_button.xml" value="0.23" />
         <entry key="..\:/ProjectAndroiStudio/SwitchActivity/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/ProjectAndroiStudio/SwitchActivity/app/src/main/res/layout/activity_panamera.xml" value="0.25" />
+        <entry key="..\:/ProjectAndroiStudio/SwitchActivity/app/src/main/res/layout/activity_panamera.xml" value="0.2" />
         <entry key="..\:/ProjectAndroiStudio/SwitchActivity/app/src/main/res/layout/porschepanamera.xml" value="0.24895833333333334" />
       </map>
     </option>
